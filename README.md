@@ -1,7 +1,10 @@
 # Dumping Best Method ✨❤️
+# git run✨❤️
+
  git clone https://github.com/Mr-Qureshi-xd/Dump
- ls
- cd Dum
+# process✨❤️
+ls
+cd Dump
 # 32bit user run✨❤️
  python Dump.py
 # 64bit user run✨❤️
