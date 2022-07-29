@@ -1,2 +1,2 @@
-import dump
 import Dump
+Dump.create_file()
